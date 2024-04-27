@@ -71,7 +71,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: "What license is the project under".data,
-        choices: ['MIT'] // ! add more choices 
+        choices: ['MIT','Apache 2.0','GNU General Public License v3.0','BSD 2-clause "Simplified" License','BDS 3-Clause "New" or "Revised"', 'Boost Software License 1.0','Creative Commons Zero v1.0 Universal','Eclipse Public License 2.0','GNU Affero General Public License v3.0','GNU Lesser General Public License v2.1','Mozilla Public License 2.0','The Unlicense']
     },
     //github info
     {
