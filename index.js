@@ -136,7 +136,7 @@ let README = '';
 
 
 if(title){
-    README = README.concat(`# ${title}`);
+    README = README.concat(`# ${title} ![Static Badge](https://img.shields.io/badge/License-${license}-blue)`);
     console.log(typeof title);
 }
 if(description){
@@ -176,9 +176,15 @@ if(license){
     README = README.concat(`\n## License \n![Static Badge](https://img.shields.io/badge/License-${license}-blue)`);
 }
 if(github){
-    README = README.concat(`\n## Contact \n* ${github}`);
+    README = README.concat(`\n## Contact \n Ask me questions about the project here\n* Github: ${github}`);
     if(email){
-        README = README.concat(`\n* ${email}`);
+        README = README.concat(`\n* Email: ${email}`);
+    }
+}
+if(!github && email){
+    README = README.concat(`\n## Contact \n Ask me questions about the project here`);
+    if(email){
+        README = README.concat(`\n* Email: ${email}`);
     }
 }
 
