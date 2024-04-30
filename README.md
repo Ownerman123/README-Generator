@@ -15,9 +15,18 @@
 [Contact](#contact)
 
 ## Installation 
-run npm i in the console to install all the needed packages 
+Run
+```bash
+npm i 
+```
+in the console to install all the needed packages 
 ## Usage 
-use node index.js command in the terminal to run, then answer the questions to automatically create a formatted README.
+Run
+```bash 
+node index.js
+```
+ in the terminal to run, then answer the 
+questions to automatically create a formatted README.
 ## Screenshot 
 ## Contribution 
 This project is pretty much good as it is but if you want to help out with future projects check out the contact me section.
