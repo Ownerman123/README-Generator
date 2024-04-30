@@ -1,13 +1,33 @@
-# Dont forget to add the title manually because that would be embarassing ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
+# I like Beans ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 ## Description 
- Dont forget to add a description manually becasue that would be embarassing
+ I Eat beans because they are good
 ## Table of Contents
+[Installation](#installation)
+
+[Usage](#usage)
+
+[Contribution](#contribution)
+
+[Test](#test)
+
+[Screenshot](#screenshot)
+
 [License](#license)
 
 [Contact](#contact)
 
+## Installation 
+EAT the beans
+## Usage 
+Get the Beans
+## Screenshot 
+## Contribution 
+Buy me more BEans
+## Test 
+Test other Beans
 ## License 
 ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 ## Contact 
  Ask me questions about the project here
-* Email: yeahboi@gmail.com
+* Github: Ownerman123
+* Email: charlesshumway@gmail.com
