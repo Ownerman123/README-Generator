@@ -14,6 +14,8 @@
 
 [Contact](#contact)
 
+[Deployed](#Deployed)
+
 ## Installation 
 Run
 ```bash
@@ -38,6 +40,8 @@ Demo Video: https://watch.screencastify.com/v/NS2T5jzvmoHkl7xLb6Op
 
 ## Contribution 
 This project is pretty much good as it is but if you want to help out with future projects check out the contact me section.
+## Deployed
+https://note-taker-v0g3.onrender.com
 ## License 
 ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 ## Contact 
